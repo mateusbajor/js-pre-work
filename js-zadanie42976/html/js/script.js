@@ -1,6 +1,6 @@
 // Zadanie #42976
 
-let objectP1 = document.querySelector('p1');
+let objectP1 = document.querySelector('p');
 
 objectP1.innerText = 'Document.querySelector działa';
 
